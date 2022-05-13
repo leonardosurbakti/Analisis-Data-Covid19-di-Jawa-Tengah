@@ -6,7 +6,7 @@ COVID-19 merupakan penyakit yang saat ini telah menjadi pandemi secara global. P
 Salah satu bentuk aksi yang dilakukan oleh pemerintah adalah dengan mengumpulkan dan menyediakan data pertumbuhan kasus COVID-19 kepada publik.
 
 ## Hal yang dilakukan
-Saya melakukan eksplorasi dan analisis mengenai COVID-19 di Indonesia. Data yang saya pergunakan diambil langsung dari API (*Application Programming Interface*) yang tersedia di [covid19.go.id](https://covid19.go.id/peta-sebaran). Sehingga dalam proyek ini saya akan mempelajari teknik mengambil data dari API, teknik mempersiapkan data, serta analisis dan visualisasi data.
+Saya melakukan eksplorasi dan analisis mengenai COVID-19 di Provinsi Jawa Tengah. Data yang saya pergunakan diambil langsung dari API (*Application Programming Interface*) yang tersedia di [covid19.go.id](https://covid19.go.id/peta-sebaran). Sehingga dalam proyek ini saya akan mempelajari teknik mengambil data dari API, teknik mempersiapkan data, serta analisis dan visualisasi data.
 ## Menganalisa Data Covid-19 di Jawa Tengah
 Mengolah data yang tersedia untuk menjawab pertanyaan berikut:
 - Berapa jumlah total kasus COVID-19 di Jawa Tengah?
