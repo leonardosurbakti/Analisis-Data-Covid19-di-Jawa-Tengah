@@ -19,4 +19,4 @@ Visualisasi data menggunakan matplotlib, beberapa hasil yang divisualisasikan ad
 - Kasus Harian Meninggal Dari COVID-19 di Jawa Tengah
 - Kasus Pekanan Positif COVID-19 di Jawa Tengah
 - Akumulasi aktif COVID-19 di Jawa Tengah
--  komparasi antara akumulasi kasus aktif, kasus sembuh, dan kasus meninggal
+- Komparasi antara akumulasi kasus aktif, kasus sembuh, dan kasus meninggal
